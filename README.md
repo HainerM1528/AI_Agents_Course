@@ -1,2 +1,8 @@
-# AI_Agents_Course
-Hugging face certificate where I learnt things like:  Smolagents, LangGraph, LlamaIndex, tool calling and bui
+# AI_Agents_Course - Hugging Face
+
+Course: https://huggingface.co/learn/agents-course  
+Username HF: Hainer1 
+Hainer Andrés Mejía Barraza
+Universidad Externado de Colombia - Deep Learning 2026-I
+
+## Contenido
